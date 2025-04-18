@@ -1,0 +1,20 @@
+nav {
+  height: 90px;
+    background-color: #1E3A8A; /* Dark blue background */
+}
+
+nav h1 {
+  font-size: 1.5rem; /* Adjust font size */
+}
+
+nav a {
+  color: white; /* White text color */
+  padding: 0.5rem 1rem; /* Padding for links */
+  text-decoration: none; /* Remove underline */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav a:hover {
+  background-color: #6ea0d6; /* Light blue on hover */
+  border-radius: 50px; /* Rounded corners */
+}

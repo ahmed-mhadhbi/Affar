@@ -1,0 +1,9 @@
+.chat-container {
+  transition: width 0.3s ease;
+  width: 120px;
+  
+}
+
+.chat-container:hover {
+  width: 300px; 
+}
